@@ -1,1 +1,4 @@
 # Project02
+
+
+This program replicates a few data structures, namely the linked list, queue, and stack, with the latter two using both the linked list and arrays in order to store data using functions within the classes. With the versions involving the linked list, the functions of the linked list itself are used to store data in a way that replicates the data structure it is trying to replicate, with the first in- first out style of the queue, and the first in last out style of the stack, which both use the linked list's functions but to different effects. The main program is meant to directly call specific functions rather than last time, where a menu was created to call the functions. I thought that doing it this way would make it a little less complicated to test since I can just comment out functions I do not want to use instead of restarting the program to try a different input.
